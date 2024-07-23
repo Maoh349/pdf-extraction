@@ -1,6 +1,6 @@
 # PDF抽出の比較
 下記ライブラリを使用してPDFからテキストを抽出後、GPT4oでmarkdown形式に変換
-- llama parse（まだ）
+- llama parse
 - Firecrawl（まだ）
 - Unstructured（まだ）
 - FormRecognizer（まだ）
